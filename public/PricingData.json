@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 29,
+    "currency": "$",
+    "billingCycle": "month",
+    "targetAudience": "Beginners & Casual Gym-goers",
+    "description": "Perfect for individuals looking to start their fitness journey with essential equipment access.",
+    "features": [
+      "Access to all standard cardio & strength equipment",
+      "Smart locker room and shower access",
+      "1 Free fitness assessment and consultation",
+      "Standard gym hours access (6 AM - 10 PM)"
+    ],
+    "isPopular": false
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 49,
+    "currency": "$",
+    "billingCycle": "month",
+    "targetAudience": "Regular Trainers & Fitness Enthusiasts",
+    "description": "Our most popular plan designed for consistent trainers who want flexibility and group energy.",
+    "features": [
+      "Everything included in the Basic Plan",
+      "24/7 Full gym access",
+      "Unlimited access to Group Classes (Yoga, Zumba, HIIT)",
+      "1 Monthly 1-on-1 session with a Personal Trainer",
+      "Customized monthly workout routine plan"
+    ],
+    "isPopular": true
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 79,
+    "currency": "$",
+    "billingCycle": "month",
+    "targetAudience": "Advanced Athletes & Full Transformation",
+    "description": "The ultimate VIP experience for members dedicated to maximum results and luxury perks.",
+    "features": [
+      "Everything included in the Standard Plan",
+      "Unlimited Personal Training support",
+      "Personalized Diet & Nutrition roadmap from an expert",
+      "Access to luxury Spa, Sauna, and Steam Room",
+      "1 Free VIP Guest Pass per month",
+      "Complimentary gym drinks, pre-workouts, and supplements"
+    ],
+    "isPopular": false
+  }
+]
