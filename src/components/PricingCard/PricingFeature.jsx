@@ -1,8 +1,8 @@
-const PricingFeature = () => {
+const PricingFeature = ({feature}) => {
     return (
-        <div>
-            
-        </div>
+        <p>
+            {feature}
+        </p>
     );
 };
 
